@@ -1,0 +1,6 @@
+﻿  Manager.cpp
+  Teacher.cpp
+D:\mayun\C++\Machine_room_reservation_system\Machine_room_reservation_system\Teacher.cpp(151,29): warning C4018: “<=”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  Machine_room_reservation_system.vcxproj -> D:\mayun\C++\Machine_room_reservation_system\Debug\Machine_room_reservation_system.exe
